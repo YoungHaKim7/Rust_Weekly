@@ -9,3 +9,7 @@
 # turbofish
 
 https://www.reddit.com/r/rust/comments/v4rir6/turbofish_why/
+
+# How to make a reverse ordered for loop? 
+
+https://stackoverflow.com/questions/25170091/how-to-make-a-reverse-ordered-for-loop

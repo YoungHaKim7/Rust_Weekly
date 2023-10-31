@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.rust-lang.org/"><img alt="rust" width="100px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /> 
+  
+</p>
+
+<hr>
+
 # Rust_Weekly
 
 # Easy Rust 스승님 최고  ❤️

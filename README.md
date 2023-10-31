@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.rust-lang.org/"><img alt="rust" width="100px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /> 
+  <a href="https://www.rust-lang.org/"><img alt="rust" width="100px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /> 
   
 </p>
 

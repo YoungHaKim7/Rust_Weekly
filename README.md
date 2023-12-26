@@ -9,6 +9,11 @@
 
 Rust_Weekly모아보기 https://youtube.com/playlist?list=PLcMveqN_07mYY1sv4IGn57uSNn0qa26Wr&si=m4uOg0m3FQAFGZ8B
 
+- Introducing FireDBG
+  - https://firedbg.sea-ql.org/blog/2023-12-13-getting-started/
+
+<hr>
+
 # Easy Rust 스승님 최고  ❤️
 
 - 유료 버젼 Easy Rust(Learn Rust in a Month of Lunches)

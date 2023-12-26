@@ -1,0 +1,11 @@
+[package]
+name = "a02_mutithread_matix"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fastrand = "2.0.1"
+firedbg-lib = "0.1.2"
+visioncortex = "0.8.6"

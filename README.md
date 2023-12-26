@@ -127,3 +127,8 @@ https://youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&si=ol75xhiO
 # C++ Weekly With Jason Turner
 
 https://youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1&si=OHZWUD8Li07xqrSd
+# Result
+
+```
+
+```

@@ -1,5 +1,7 @@
 # Will Rust be alive in 10 years?
 - https://corrode.dev/blog/rust-in-ten-years/
+  - https://tweedegolf.nl/en/blog
+
 
 <hr>
 
